@@ -24,9 +24,14 @@ Puedes modificar las constantes al inicio del archivo `unfollow.js` según tus n
 * `PAUSA_CARGA_SCROLL_MS`: Tiempo de espera para que TikTok cargue nuevos usuarios tras bajar la lista (por defecto `1500` ms).
 * `MAX_INTENTOS`: Número de intentos de scroll sin encontrar usuarios nuevos antes de detenerse (por defecto `6`).
 
-## ⚠️ Aviso y Recomendaciones
-* **Límites de TikTok:** TikTok aplica límites horarios y diarios a las acciones repetitivas (aproximadamente entre 150 y 200 *unfollows* por hora). Si notas que los botones vuelven a su estado original tras hacer clic, detén el script recargando la página (`F5`) y espera unas horas.
-* **Uso bajo tu responsabilidad:** Este proyecto tiene fines educativos y de automatización personal. No está afiliado ni respaldado por TikTok.
+## ⚠️ Descargo de Responsabilidad (Úsalo bajo tu propio riesgo)
+
+> **ADVERTENCIA:** El uso de scripts de automatización puede infringir los Términos de Servicio de TikTok. **Úsalo estrictamente bajo tu propio riesgo.**
+
+* **Riesgo de limitaciones o bloqueos:** TikTok aplica límites horarios y diarios a las acciones repetitivas (aproximadamente entre 150 y 200 *unfollows* por hora). Abusar de este script o reducir demasiado los tiempos de pausa puede provocar bloqueos temporales de funciones, *shadowban* o restricciones en tu cuenta.
+* **Cómo detectar un límite temporal:** Si notas que los botones vuelven a cambiar solos a `"Siguiendo"` después de hacerles clic, detén el script de inmediato recargando la página (`F5`) y espera varias horas antes de volver a intentarlo.
+* **Sin garantías:** El autor no se hace responsable por bloqueos, suspensiones o pérdida de acceso a cuentas derivadas del uso o mal uso de este código. Este proyecto tiene fines estrictamente educativos y de automatización personal, y no está afiliado ni respaldado por TikTok.
 
 ## 📄 Licencia
 Este proyecto está bajo la licencia **GNU General Public License v3.0 (GPLv3)**. Es completamente libre para usar, estudiar y modificar, pero cualquier proyecto derivado o modificación debe mantenerse también como software libre y de código abierto bajo esta misma licencia.
+
