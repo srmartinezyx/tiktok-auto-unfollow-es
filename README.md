@@ -1,5 +1,3 @@
-﻿# tiktok-auto-unfollow-es
-# tiktok-auto-unfollow-es
 # 🚀 TikTok Auto-Unfollow Script (Español)
 
 Script ligero en **JavaScript** diseñado para ejecutarse directamente desde la consola del navegador en **TikTok Web** (interfaz en español). Permite limpiar tu lista de seguidos de forma automática sin necesidad de instalar extensiones de terceros.
