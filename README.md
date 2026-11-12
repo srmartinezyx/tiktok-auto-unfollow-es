@@ -11,10 +11,13 @@ Script ligero en **JavaScript** diseñado para ejecutarse directamente desde la 
 ## 🛠️ Cómo usarlo
 
 1. Inicia sesión en [TikTok Web](https://tiktok.com) desde tu computadora (asegúrate de tener la interfaz en español).
-2. Ve a tu **Perfil** y haz clic en **Siguiendo** para abrir la ventana emergente con tu lista.
-3. Abre las **Herramientas de desarrollador** presionando `F12` (o `Ctrl + Shift + I` en Windows / `Cmd + Option + I` en Mac).
-4. Ve a la pestaña **Consola** (`Console`).
-5. Copia el código del archivo [`unfollow.js`](./unfollow.js), pégalo en la consola y presiona **Enter** (o clic en **Ejecutar**).
+
+2. ## 📄 Licencia
+Este proyecto está bajo la licencia **GNU General Public License v3.0 (GPLv3)**. Es completamente libre para usar, estudiar y modificar, pero cualquier proyecto derivado debe mantenerse también como software libre y de código abierto.
+3. Ve a tu **Perfil** y haz clic en **Siguiendo** para abrir la ventana emergente con tu lista.
+4. Abre las **Herramientas de desarrollador** presionando `F12` (o `Ctrl + Shift + I` en Windows / `Cmd + Option + I` en Mac).
+5. Ve a la pestaña **Consola** (`Console`).
+6. Copia el código del archivo [`unfollow.js`](./unfollow.js), pégalo en la consola y presiona **Enter** (o clic en **Ejecutar**).
 
 > **Nota para Firefox:** Si es la primera vez que pegas código en la consola, Firefox te pedirá escribir `permitir pegar` (o `allow pasting`) antes de dejarte usar `Ctrl + V`.
 
